@@ -1,0 +1,5 @@
+#block definitions
+bdef symbol:l width:50 height:30 fill:color(RGB(154,157,84))
+
+#spacers definitions
+sdef symbol:- width:50

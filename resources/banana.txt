@@ -1,0 +1,16 @@
+START_LEVEL
+level_name:Banana
+ball_velocities:45,5 -45,5 0,5
+background:image(background_images/banana.jpg)
+paddle_speed:30
+paddle_width:160
+block_definitions:definitions/banana_defenitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:100
+num_blocks:20
+START_BLOCKS
+-llllllllllll-
+-lll--ll--lll--
+END_BLOCKS
+END_LEVEL
